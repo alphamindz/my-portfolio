@@ -6,6 +6,8 @@ import { FaDownload } from 'react-icons/fa'; // यह लाइन होनी
 
 
 
+
+
 function Hero() {
   return (
     <section id="home" className="hero-section">
