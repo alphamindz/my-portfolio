@@ -23,6 +23,7 @@ const Navbar = () => {
           <li><a href="#projects" onClick={closeMenu}>Projects</a></li>
           <li><a href="#certifications" onClick={closeMenu}>Certificat</a></li>
           <li><a href="#certifications" onClick={closeMenu}>Skills</a></li>
+           <li><a href="#certifications" onClick={closeMenu}>Services</a></li>
           <li><a href="/admin/login" className="admin-link" onClick={closeMenu}>Admin</a></li>
         </ul>
 

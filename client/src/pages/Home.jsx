@@ -4,6 +4,7 @@ import Projects from '../components/Projects';
 import Certifications from '../components/Certifications';
 import Footer from '../components/Footer';
 import Skills from '../components/Skills';
+import Services from '../components/Services';
 
 function Home() {
   return (
@@ -12,8 +13,8 @@ function Home() {
       <Hero />
       <Projects />
       <Certifications />
-      
       <Skills />
+      <Services />
       <Footer />
     </>
   );
