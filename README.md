@@ -1,16 +1,16 @@
-# 👋 Namaste, I'm Ankur Yadav! 🚀
+# 👋 Namaste, I'm Ankur Yadav! 
 
-### 💻 Full-Stack Developer | MERN Stack Specialist | Software Engineer
+###  Full-Stack Developer | MERN Stack Specialist | Software Engineer
 
 I am a passionate **Full-Stack Developer** dedicated to building scalable, user-centric web applications. My focus is on turning complex problems into elegant, high-performance digital solutions.
 
 ---
 
-### 💡 About Me
+###  About Me
 - 🔭 **Current Project:** Building **Skill-LAB**, an advanced e-learning ecosystem.
 - 🌱 **Learning:** Deep diving into Next.js 14 Server Actions and AI Integration.
 - 🎯 **Goal:** To create impact-driven software that solves real-world problems.
-- ⚡ **Fun Fact:** I believe clean code is a form of art. 🎨
+- ⚡ **Fun Fact:** I believe clean code is a form of art. 
 
 ---
 
@@ -33,7 +33,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 - **Portfolio:** [ankuryadav.vercel.app](https://my-portfolio-rho-ecru-y5sugp3p3d.vercel.app/) 🌍
 - **Email:** [ankurcse437@gmail.com](mailto:ankurcse437@gmail.com) 📧
