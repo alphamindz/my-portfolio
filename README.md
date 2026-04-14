@@ -24,7 +24,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ---
 
-### 📈 GitHub Analytics
+###  GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=radical&hide_border=true" alt="Ankur's Stats" width="400" />
