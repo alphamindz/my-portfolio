@@ -15,11 +15,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
 | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 ---
-###  GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=radical&hide_border=true" alt="Ankur's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamindz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
-</p>
+
 ---
 ###  Let's Connect
 - **Portfolio:** [ankuryadav.vercel.app](https://my-portfolio-rho-ecru-y5sugp3p3d.vercel.app/) 
