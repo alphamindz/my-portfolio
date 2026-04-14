@@ -14,7 +14,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 | Frontend | Backend | Database | Tools |
 | :--- | :--- | :--- | :--- |
