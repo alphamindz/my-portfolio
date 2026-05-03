@@ -17,7 +17,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable, user-
 ---
 
 ---
-###  Let's Connect
+###  Let's Connect.
 - **Portfolio:** [ankuryadav.vercel.app](https://my-portfolio-rho-ecru-y5sugp3p3d.vercel.app/) 
 - **Email:** [ankurcse437@gmail.com](mailto:ankurcse437@gmail.com) 📧
 - **LinkedIn:** [Ankur Yadav](https://www.linkedin.com/in/ankur-yadav-05a967245/) 
